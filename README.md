@@ -1,8 +1,5 @@
-Absolutely. Since this is based on your **research paper**, the README should look like a proper GitHub project, not a college assignment. It should also be attractive to recruiters like HyperVerge.
 
----
-
-# 🌱 A Multi-Task Deep Learning Framework for Plant Disease Classification and Weed Detection
+#  A Multi-Task Deep Learning Framework for Plant Disease Classification and Weed Detection
 
 ## 📌 Project Overview
 
