@@ -1,6 +1,12 @@
 
 #  A Multi-Task Deep Learning Framework for Plant Disease Classification and Weed Detection
 
+## 🔗 Project Resources
+
+🎥 **[▶️ Watch 90-Second Demo](./project_demo.mp4)**
+
+📄 **[📑 Read Research Paper](./IPF25.docx)**
+
 ## 📌 Project Overview
 
 This project presents a **router-based multi-task deep learning framework** for intelligent agricultural analysis by integrating **plant disease classification** and **weed detection** into a unified computer vision pipeline. Instead of relying on separate systems for different agricultural tasks, the framework dynamically routes an input image to the most appropriate deep learning model using a lightweight routing network.
