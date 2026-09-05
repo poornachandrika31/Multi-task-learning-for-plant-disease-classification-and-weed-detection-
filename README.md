@@ -5,11 +5,11 @@
 
 ## 🎥 90-Second Demo
 
-▶️ **[Watch the 90-Second Demo](./project_demo.mp4)**
+▶️ **[Watch the 90-Second Demo](./project_demo(1).mp4)**
 
 ## 📄 Research Paper
 
-📑 **[Read the Research Paper](./IPF25.docx)**
+📑 **[Read the Research Paper](./RESEARCH PAPER_IPF25.pdf)**
 
 ## 📌 Project Overview
 
