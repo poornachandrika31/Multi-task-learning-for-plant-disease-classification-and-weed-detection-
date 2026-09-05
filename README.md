@@ -3,13 +3,13 @@
 
 ## 🔗 Project Resources
 
-## 🎥 90-Second Demo
+### 🎥 90-Second Demo
 
-▶️ **[Watch the 90-Second Demo](./project_demo(1).mp4)**
+▶️ **[Watch the 90-Second Demo](./project_demo.mp4)**
 
-## 📄 Research Paper
+### 📄 Research Paper
 
-📑 **[Read the Research Paper](./RESEARCH PAPER_IPF25.pdf)**
+📑 **[Read the Research Paper](./IPF25.docx)**
 
 ## 📌 Project Overview
 
